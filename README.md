@@ -1,27 +1,46 @@
-# Next.js + Tailwind CSS Example
+<img src="./github/header.png" alt="header">
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+## **Sobre:**
 
-## Deploy your own
+Projeto de redesign para um e-commerce Apple utilizando Next.js. Para o desenvolvimento da aplicação foi utilizado **SanityCMS** para realizar a administração de produtos da loja e usuários, a biblioteca **Next Auth** para autenticão de usuários por JWT e Google Provider (Login com Gmail), **Redux e Redux Toolkil** para o gerenciamento de estados da aplicação e integração com o gateway de pagamento **STRIPE**.
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+#### **Design inspired - [Syafrini Nabilla](https://dribbble.com/shots/16450285/attachments/11161614?mode=media)**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+---
 
-## How to use
+## **Desenvolvimento:**
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init), [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/), or [pnpm](https://pnpm.io) to bootstrap the example:
+### ⭐ Principais tecnologias utilizadas na aplicação:
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-```
+- ### **Next.js**
 
-```bash
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
+  Foi utilizado o framework Next.js para desenvolvimento de uma aplicação performática utilizando SSR (Server-Side Rendering) e componentes optimizados específicos da tecnologia. Tambem foi utilizado o recurso de API do Next para realizar operações no back-end no caso desta aplicação SanityCMS.
 
-```bash
-pnpm create next-app --example with-tailwindcss with-tailwindcss-app
-```
+- ### **SanityCMS**
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+  CMS utilizado para administração de produtos e clientes cadastrados da aplicação.
+
+- ### **Tailwind**
+
+  Framework de estilização utilizado na aplicação.
+
+- ### **NextAuth**
+
+  Biblioteca de autenticão de usuários
+
+- ### **Redux/ ReduxToolkit**
+
+  Biblioteca de compartilhamento e gerenciamento de estado utilizada para o fluxo de produtos e funcionalidades do carrinho de compras.
+
+- ### **Stripe**
+  Gateway de pagamento utilizado para realização de compras na aplicação.
+
+---
+
+**📌 | Para conferir a aplicação [Clique aqui]()**
+
+**⭐ | Não esquece de favoritar o repositório e me seguir aqui no github para ficar por dentro de mais projetos incríveis como esse!**
+
+**❤️| Conecte comigo no [Linkedin](https://www.linkedin.com/in/marciovinicius1/)**
+
+<img src="./public/iphone.png" alt="header">
