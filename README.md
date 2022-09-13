@@ -37,7 +37,7 @@ Projeto de redesign para um e-commerce Apple utilizando Next.js. Para o desenvol
 
 ---
 
-**📌 | Para conferir a aplicação [Clique aqui]()**
+**📌 | Para conferir a aplicação [Clique aqui](https://apple-redesign-store-app.vercel.app/)**
 
 **⭐ | Não esquece de favoritar o repositório e me seguir aqui no github para ficar por dentro de mais projetos incríveis como esse!**
 
